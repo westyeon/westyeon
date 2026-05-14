@@ -11,7 +11,7 @@ I'm a developer interested in **business systems, data analysis**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-<br/>
+
 
 ### Frontend / Web
 
@@ -20,14 +20,14 @@ I'm a developer interested in **business systems, data analysis**.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br/>
+
 
 ### Database
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
-<br/>
+
 
 ### Tools
 
@@ -37,21 +37,21 @@ I'm a developer interested in **business systems, data analysis**.
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<br/>
+
 
 ### Business Solutions
 
 ![OZ Report](https://img.shields.io/badge/OZ%20Report-555555?style=flat-square)
 ![IBSheet](https://img.shields.io/badge/IBSheet-2F80ED?style=flat-square)
 
-<br/>
+
 
 ### Domain Experience
 
 ![HR System](https://img.shields.io/badge/HR%20System-4B5563?style=flat-square)
 ![Hospital Information System](https://img.shields.io/badge/Hospital%20Information%20System-2563EB?style=flat-square)
 
-<br/>
+
 
 ### Currently Learning
 
