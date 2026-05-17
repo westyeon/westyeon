@@ -1,6 +1,3 @@
-## 👋 Hi there! I'm Seoyeon.
-
-I'm a developer interested in **business systems, data analysis**.  
 
 ## 💻 Skills
 
